@@ -1,0 +1,10 @@
+
+
+* Get members of a cmdlet
+get-member
+example: get-date | get-member -Membertype Property
+
+* Sample scripts for system administration
+https://docs.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7
+
+
